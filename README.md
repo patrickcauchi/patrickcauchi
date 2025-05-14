@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Patrick
 
-<!--
-**patrickcauchi/patrickcauchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 I'm currently building **Day ZERO Protocol** – a personal operating system built around four core actions: **Build, Learn, Connect, Reflect**. It’s my first end-to-end app, helping me stay accountable while learning:
 
-Here are some ideas to get you started:
+- 🧠 Multi-agent systems & AI integration  
+- 🔐 Cybersecurity & blockchain fundamentals  
+- 📱 Full-stack and mobile app development  
+- ⚙️ Systems thinking and product design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Long-term, I’m building toward launching an **AI-native crypto quant fund**, combining agentic systems with market models.
+
+📚 Currently learning:  
+→ Python, React, system architecture, finance and secure development practices.
+
+🧩 I believe in high-agency living, clean builds, and foundational learning.  
+Let’s build something real.
+
