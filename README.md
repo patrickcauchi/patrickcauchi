@@ -1,17 +1,17 @@
 ## Hi there 👋 I'm Patrick
 
-🚧 I'm currently building **Day ZERO Protocol** – a personal operating system built around four core actions: **Build, Learn, Connect, Reflect**. It’s my first end-to-end app, helping me stay accountable while learning:
+🚧 I'm building **Day ZERO Protocol** — a personal operating system designed around four core actions: **Build**, **Learn**, **Connect**, and **Reflect**. It’s my first end-to-end system, helping me stay accountable while learning and creating.
 
-- 🧠 Multi-agent systems & AI integration  
-- 🔐 Cybersecurity & blockchain fundamentals  
-- 📱 Full-stack and mobile app development  
-- ⚙️ Systems thinking and product design
+💡 I'm exploring and building in:
+- 🧠 AI agents & multi-agent systems  
+- 🔐 Cybersecurity, cryptography & blockchain fundamentals  
+- 📱 Full-stack development (web + mobile)  
+- ⚙️ System design, autonomy, and high-agency tools
 
-🔭 Long-term, I’m building toward launching an **AI-native crypto quant fund**, combining agentic systems with market models.
+🎯 My long-term vision is to launch an **AI-native crypto quant fund**, powered by intelligent agent frameworks and programmable market models.
 
-📚 Currently learning:  
-→ Python, React, system architecture, Solidity, and secure development practices.
+🛠️ Currently learning:  
+→ Python, React, Solidity, system architecture, and secure dev practices
 
-🧩 I believe in high-agency living, clean builds, and foundational learning.  
-Let’s build something real.
-
+🧩 I believe in **high-agency living**, **clean systems**, and **foundational learning**.  
+Let’s build something real — with clarity, precision, and purpose.
